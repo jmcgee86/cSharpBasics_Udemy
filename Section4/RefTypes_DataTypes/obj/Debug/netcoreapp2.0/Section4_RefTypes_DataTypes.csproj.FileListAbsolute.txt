@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_RefTypes_DataTypes/bin/Debug/netcoreapp2.0/Section4_RefTypes_DataTypes.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_RefTypes_DataTypes/bin/Debug/netcoreapp2.0/Section4_RefTypes_DataTypes.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_RefTypes_DataTypes/bin/Debug/netcoreapp2.0/Section4_RefTypes_DataTypes.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_RefTypes_DataTypes/bin/Debug/netcoreapp2.0/Section4_RefTypes_DataTypes.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_RefTypes_DataTypes/bin/Debug/netcoreapp2.0/Section4_RefTypes_DataTypes.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_RefTypes_DataTypes/obj/Debug/netcoreapp2.0/Section4_RefTypes_DataTypes.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_RefTypes_DataTypes/obj/Debug/netcoreapp2.0/Section4_RefTypes_DataTypes.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_RefTypes_DataTypes/obj/Debug/netcoreapp2.0/Section4_RefTypes_DataTypes.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_RefTypes_DataTypes/obj/Debug/netcoreapp2.0/Section4_RefTypes_DataTypes.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_RefTypes_DataTypes/obj/Debug/netcoreapp2.0/Section4_RefTypes_DataTypes.pdb

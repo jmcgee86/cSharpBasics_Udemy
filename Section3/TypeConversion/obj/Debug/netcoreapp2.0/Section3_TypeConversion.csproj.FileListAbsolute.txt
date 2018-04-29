@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_TypeConversion/bin/Debug/netcoreapp2.0/Section3_TypeConversion.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_TypeConversion/bin/Debug/netcoreapp2.0/Section3_TypeConversion.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_TypeConversion/bin/Debug/netcoreapp2.0/Section3_TypeConversion.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_TypeConversion/bin/Debug/netcoreapp2.0/Section3_TypeConversion.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_TypeConversion/bin/Debug/netcoreapp2.0/Section3_TypeConversion.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_TypeConversion/obj/Debug/netcoreapp2.0/Section3_TypeConversion.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_TypeConversion/obj/Debug/netcoreapp2.0/Section3_TypeConversion.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_TypeConversion/obj/Debug/netcoreapp2.0/Section3_TypeConversion.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_TypeConversion/obj/Debug/netcoreapp2.0/Section3_TypeConversion.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_TypeConversion/obj/Debug/netcoreapp2.0/Section3_TypeConversion.pdb

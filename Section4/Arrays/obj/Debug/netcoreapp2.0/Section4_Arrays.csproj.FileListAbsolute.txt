@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_Arrays/bin/Debug/netcoreapp2.0/Section4_Arrays.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_Arrays/bin/Debug/netcoreapp2.0/Section4_Arrays.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_Arrays/bin/Debug/netcoreapp2.0/Section4_Arrays.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_Arrays/bin/Debug/netcoreapp2.0/Section4_Arrays.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_Arrays/bin/Debug/netcoreapp2.0/Section4_Arrays.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_Arrays/obj/Debug/netcoreapp2.0/Section4_Arrays.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_Arrays/obj/Debug/netcoreapp2.0/Section4_Arrays.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_Arrays/obj/Debug/netcoreapp2.0/Section4_Arrays.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_Arrays/obj/Debug/netcoreapp2.0/Section4_Arrays.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section4_Arrays/obj/Debug/netcoreapp2.0/Section4_Arrays.pdb

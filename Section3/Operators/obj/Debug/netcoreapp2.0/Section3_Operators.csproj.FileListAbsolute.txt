@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_Operators/bin/Debug/netcoreapp2.0/Section3_Operators.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_Operators/bin/Debug/netcoreapp2.0/Section3_Operators.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_Operators/bin/Debug/netcoreapp2.0/Section3_Operators.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_Operators/bin/Debug/netcoreapp2.0/Section3_Operators.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_Operators/bin/Debug/netcoreapp2.0/Section3_Operators.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_Operators/obj/Debug/netcoreapp2.0/Section3_Operators.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_Operators/obj/Debug/netcoreapp2.0/Section3_Operators.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_Operators/obj/Debug/netcoreapp2.0/Section3_Operators.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_Operators/obj/Debug/netcoreapp2.0/Section3_Operators.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section3_Operators/obj/Debug/netcoreapp2.0/Section3_Operators.pdb

@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/IfElseSwitch/bin/Debug/netcoreapp2.0/IfElseSwitch.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/IfElseSwitch/bin/Debug/netcoreapp2.0/IfElseSwitch.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/IfElseSwitch/bin/Debug/netcoreapp2.0/IfElseSwitch.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/IfElseSwitch/bin/Debug/netcoreapp2.0/IfElseSwitch.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/IfElseSwitch/bin/Debug/netcoreapp2.0/IfElseSwitch.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/IfElseSwitch/obj/Debug/netcoreapp2.0/IfElseSwitch.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/IfElseSwitch/obj/Debug/netcoreapp2.0/IfElseSwitch.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/IfElseSwitch/obj/Debug/netcoreapp2.0/IfElseSwitch.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/IfElseSwitch/obj/Debug/netcoreapp2.0/IfElseSwitch.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/IfElseSwitch/obj/Debug/netcoreapp2.0/IfElseSwitch.pdb
