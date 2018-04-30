@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/bin/Debug/netcoreapp2.0/Two.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/bin/Debug/netcoreapp2.0/Two.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/bin/Debug/netcoreapp2.0/Two.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/bin/Debug/netcoreapp2.0/Two.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/bin/Debug/netcoreapp2.0/Two.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/obj/Debug/netcoreapp2.0/Two.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/obj/Debug/netcoreapp2.0/Two.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/obj/Debug/netcoreapp2.0/Two.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/obj/Debug/netcoreapp2.0/Two.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/obj/Debug/netcoreapp2.0/Two.pdb

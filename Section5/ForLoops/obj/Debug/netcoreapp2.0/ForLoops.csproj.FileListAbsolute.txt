@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/ForLoops/bin/Debug/netcoreapp2.0/ForLoops.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/ForLoops/bin/Debug/netcoreapp2.0/ForLoops.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/ForLoops/bin/Debug/netcoreapp2.0/ForLoops.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/ForLoops/bin/Debug/netcoreapp2.0/ForLoops.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/ForLoops/bin/Debug/netcoreapp2.0/ForLoops.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.pdb

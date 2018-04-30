@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/WhileLoops/bin/Debug/netcoreapp2.0/WhileLoops.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/WhileLoops/bin/Debug/netcoreapp2.0/WhileLoops.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/WhileLoops/bin/Debug/netcoreapp2.0/WhileLoops.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/WhileLoops/bin/Debug/netcoreapp2.0/WhileLoops.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/WhileLoops/bin/Debug/netcoreapp2.0/WhileLoops.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/WhileLoops/obj/Debug/netcoreapp2.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/WhileLoops/obj/Debug/netcoreapp2.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/WhileLoops/obj/Debug/netcoreapp2.0/WhileLoops.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/WhileLoops/obj/Debug/netcoreapp2.0/WhileLoops.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/WhileLoops/obj/Debug/netcoreapp2.0/WhileLoops.pdb

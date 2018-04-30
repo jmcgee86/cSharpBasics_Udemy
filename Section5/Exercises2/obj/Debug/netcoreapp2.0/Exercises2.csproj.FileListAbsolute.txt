@@ -1,0 +1,3 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises2/obj/Debug/netcoreapp2.0/Exercises2.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises2/obj/Debug/netcoreapp2.0/Exercises2.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises2/obj/Debug/netcoreapp2.0/Exercises2.AssemblyInfo.cs
