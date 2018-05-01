@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/Two.csproj",
+      "projectUniqueName": "/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises1/Ex2/Two.csproj",
       "projectName": "Two",
-      "projectPath": "/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/Two.csproj",
+      "projectPath": "/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises1/Ex2/Two.csproj",
       "packagesPath": "/Users/jmcgee/.nuget/packages/",
-      "outputPath": "/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises/Two/obj/",
+      "outputPath": "/Users/jmcgee/Documents/cSharpBasics_Udemy/Section5/Exercises1/Ex2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

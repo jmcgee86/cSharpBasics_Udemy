@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section6/Arrays/bin/Debug/netcoreapp2.0/Arrays.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section6/Arrays/bin/Debug/netcoreapp2.0/Arrays.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section6/Arrays/bin/Debug/netcoreapp2.0/Arrays.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section6/Arrays/bin/Debug/netcoreapp2.0/Arrays.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section6/Arrays/bin/Debug/netcoreapp2.0/Arrays.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section6/Arrays/obj/Debug/netcoreapp2.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section6/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section6/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section6/Arrays/obj/Debug/netcoreapp2.0/Arrays.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section6/Arrays/obj/Debug/netcoreapp2.0/Arrays.pdb
