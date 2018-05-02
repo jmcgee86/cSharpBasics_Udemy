@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/DateTime/bin/Debug/netcoreapp2.0/DateTime.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/DateTime/bin/Debug/netcoreapp2.0/DateTime.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/DateTime/bin/Debug/netcoreapp2.0/DateTime.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/DateTime/bin/Debug/netcoreapp2.0/DateTime.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/DateTime/bin/Debug/netcoreapp2.0/DateTime.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/DateTime/obj/Debug/netcoreapp2.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/DateTime/obj/Debug/netcoreapp2.0/DateTime.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/DateTime/obj/Debug/netcoreapp2.0/DateTime.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/DateTime/obj/Debug/netcoreapp2.0/DateTime.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/DateTime/obj/Debug/netcoreapp2.0/DateTime.pdb

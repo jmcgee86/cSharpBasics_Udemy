@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/TimeSpan/bin/Debug/netcoreapp2.0/TimeSpan.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/TimeSpan/bin/Debug/netcoreapp2.0/TimeSpan.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/TimeSpan/bin/Debug/netcoreapp2.0/TimeSpan.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/TimeSpan/bin/Debug/netcoreapp2.0/TimeSpan.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/TimeSpan/bin/Debug/netcoreapp2.0/TimeSpan.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/TimeSpan/obj/Debug/netcoreapp2.0/TimeSpan.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/TimeSpan/obj/Debug/netcoreapp2.0/TimeSpan.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/TimeSpan/obj/Debug/netcoreapp2.0/TimeSpan.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/TimeSpan/obj/Debug/netcoreapp2.0/TimeSpan.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section7/TimeSpan/obj/Debug/netcoreapp2.0/TimeSpan.pdb
