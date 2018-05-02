@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/SummarisingText/bin/Debug/netcoreapp2.0/SummarisingText.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/SummarisingText/bin/Debug/netcoreapp2.0/SummarisingText.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/SummarisingText/bin/Debug/netcoreapp2.0/SummarisingText.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/SummarisingText/bin/Debug/netcoreapp2.0/SummarisingText.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/SummarisingText/bin/Debug/netcoreapp2.0/SummarisingText.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/SummarisingText/obj/Debug/netcoreapp2.0/SummarisingText.pdb
