@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/StringBuilder/bin/Debug/netcoreapp2.0/StringBuilder.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/StringBuilder/bin/Debug/netcoreapp2.0/StringBuilder.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/StringBuilder/bin/Debug/netcoreapp2.0/StringBuilder.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/StringBuilder/bin/Debug/netcoreapp2.0/StringBuilder.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/StringBuilder/bin/Debug/netcoreapp2.0/StringBuilder.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/StringBuilder/obj/Debug/netcoreapp2.0/StringBuilder.pdb

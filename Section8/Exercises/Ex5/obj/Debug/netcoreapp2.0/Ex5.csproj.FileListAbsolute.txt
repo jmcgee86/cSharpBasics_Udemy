@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/Exercises/Ex5/bin/Debug/netcoreapp2.0/Ex5.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/Exercises/Ex5/bin/Debug/netcoreapp2.0/Ex5.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/Exercises/Ex5/bin/Debug/netcoreapp2.0/Ex5.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/Exercises/Ex5/bin/Debug/netcoreapp2.0/Ex5.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/Exercises/Ex5/bin/Debug/netcoreapp2.0/Ex5.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/Exercises/Ex5/obj/Debug/netcoreapp2.0/Ex5.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/Exercises/Ex5/obj/Debug/netcoreapp2.0/Ex5.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/Exercises/Ex5/obj/Debug/netcoreapp2.0/Ex5.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/Exercises/Ex5/obj/Debug/netcoreapp2.0/Ex5.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section8/Exercises/Ex5/obj/Debug/netcoreapp2.0/Ex5.pdb
