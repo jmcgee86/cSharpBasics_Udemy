@@ -1,0 +1,1 @@
+writing a program that will read a text file and display the number of words.
