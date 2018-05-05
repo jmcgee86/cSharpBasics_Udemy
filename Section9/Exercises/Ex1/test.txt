@@ -1,0 +1,3 @@
+writing a program that
+reads a text file and display the number of words it contains.
+the program also returns the longest word in the text file.
