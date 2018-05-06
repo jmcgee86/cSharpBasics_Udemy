@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section10/bin/Debug/netcoreapp2.0/Section10.deps.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section10/bin/Debug/netcoreapp2.0/Section10.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section10/bin/Debug/netcoreapp2.0/Section10.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section10/bin/Debug/netcoreapp2.0/Section10.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section10/bin/Debug/netcoreapp2.0/Section10.pdb
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section10/obj/Debug/netcoreapp2.0/Section10.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section10/obj/Debug/netcoreapp2.0/Section10.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section10/obj/Debug/netcoreapp2.0/Section10.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section10/obj/Debug/netcoreapp2.0/Section10.dll
+/Users/jmcgee/Documents/cSharpBasics_Udemy/Section10/obj/Debug/netcoreapp2.0/Section10.pdb
